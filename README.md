@@ -22,9 +22,9 @@ pip install instabot
 # Setup
 
 1. Clone this repository:
-
-git clone https://github.com/your_username/instagram-automation.git
-
+```bash
+git clone https://github.com/CHICO-CP/following-Instagram.git
+```
 Replace your_username with your actual GitHub username.
 
 
