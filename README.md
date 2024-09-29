@@ -69,4 +69,5 @@ Use this script responsibly and ensure you comply with Instagram's terms of serv
 # Developer
 
 **Developer:** @Gh0stDeveloper
+
 **Channel:** @TEAM_CHICO_CP
